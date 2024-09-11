@@ -1,4 +1,4 @@
 # demo
 this my first Repositery
 <br>
-Aurthor - Rahul Sharma (jatushkarang)
+Aurthor - Rahul Sharma (jatushkaran)
